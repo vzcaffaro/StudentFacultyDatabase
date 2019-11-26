@@ -1,0 +1,3 @@
+71934,Ryan Russo,Lecturer,Physics,[20817,46372]
+91843,Mary Johnson,Professor,Biology,[]
+18293,Lauren Bastille,Ass. Professor,Political Science,[62618,82718]

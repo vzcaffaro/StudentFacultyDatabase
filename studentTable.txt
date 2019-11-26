@@ -1,0 +1,4 @@
+62618,John Reynolds,Junior,Business,3.420000,18293
+82718,Alyssa Roberts,Sophomore,Psychology,3.926000,18293
+46372,Mark Hamill,Freshman,Spanish,3.050000,71934
+20817,Tyrell Dobson,Junior,Data Analytics,3.262000,71934

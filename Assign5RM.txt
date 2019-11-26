@@ -1,0 +1,27 @@
+Vinny Caffaro
+002298196
+caffaro@chapman.edu
+CPSC 350-01
+Assignment 5
+
+Files:
+main.cpp
+fileReader.h
+fileReader.cpp
+Student.h
+Student.cpp
+Faculty.h
+Faculty.cpp
+BST.h
+TreeNode.h
+DoublyLinkedList.h
+DoublyNode.h
+ChoiceStack.h
+TreeStack.h
+
+Sources:
+http://www.cplusplus.com/doc/tutorial/files/
+http://www.cplusplus.com/reference/string/string/
+http://www.cplusplus.com/reference/string/string/getline/
+http://www.cplusplus.com/reference/istream/istream/get/
+http://crackprogramming.blogspot.com/2012/11/make-copy-of-binary-tree-given-pointer.html
